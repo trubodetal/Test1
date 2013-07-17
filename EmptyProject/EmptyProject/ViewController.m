@@ -25,5 +25,5 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+// Этот комментарий добавлен в Test1_2
 @end
